@@ -80,13 +80,12 @@ Note: If you do not have access to the APIs or prefer not to use them, you can s
 
 **3.) Configure the sandbox.**
 
-**4.) Set up the forwarding URL (provided by Local Tunnel) in the sandbox settings.**
+**4.) Click on sandbox settings -> Set up the forwarding URL (provided by Local Tunnel)**
 
 
 
 
-
-
+<p align="center"> <img src=https://github.com/ramtin-K1996/WhatsAppBot-OpenAI-Twilio-IEXCloud/blob/main/images/Screenshot%20(678).png?raw=true /></p> 
 
 
 
