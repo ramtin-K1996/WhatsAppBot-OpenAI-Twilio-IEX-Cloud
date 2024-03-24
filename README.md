@@ -6,7 +6,10 @@
 WhatsApp bot integrating ChatGPT, live stock updates, and Google search. Users can interact with the bot to retrieve top Google search results, obtain live stock information (including current price, 52-week high, 52-week low, and market status), or engage in conversation with ChatGPT over WhatsApp messages.
 
 
-**video**
+<p align="center"> <img src=https://github.com/ramtin-K1996/WhatsAppBot-OpenAI-Twilio-IEXCloud/blob/main/images/part1.gif?raw=true width="500"/><br><br><img src=https://github.com/ramtin-K1996/WhatsAppBot-OpenAI-Twilio-IEXCloud/blob/main/images/part2.gif?raw=true width="500"/> </p> 
+
+
+
 
 <h1>Requirements</h1>
 
